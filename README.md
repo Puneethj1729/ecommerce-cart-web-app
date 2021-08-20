@@ -19,10 +19,11 @@
 <h2>Server: node server.js</h2>
 <h2>Client: npm start</h2>
 <p>Hope It helps!</p>
-![web_1](https://user-images.githubusercontent.com/60792837/130273805-053198e8-32bd-4c1e-8326-b5f60c4eb4f2.png)
-![web_2](https://user-images.githubusercontent.com/60792837/130273818-ad0238e2-8813-4837-b8fd-a71686c252cc.png)
-![web_3](https://user-images.githubusercontent.com/60792837/130273835-4c568747-6094-499d-b0c5-6da0edcc2479.png)
-![web_4](https://user-images.githubusercontent.com/60792837/130273857-e8897b3f-6360-41d0-a5f3-c8b8a54f8f87.png)
-![web_5](https://user-images.githubusercontent.com/60792837/130273874-6d18da1f-5730-4c71-8ef5-383aaf03714f.png)
-![web_6](https://user-images.githubusercontent.com/60792837/130273890-b23f59aa-3d31-4246-82ff-6da8f1090a00.png)
+<img alt="Description" src="https://user-images.githubusercontent.com/60792837/130274059-9b79b5ec-5a9a-44a2-ba7f-5e8556c3fe12.png">
+<img alt="Description" src="https://user-images.githubusercontent.com/60792837/130274161-48ccc8fe-b945-42a9-9793-946aa281243f.png">
+<img alt="Description" src="https://user-images.githubusercontent.com/60792837/130274276-62a69fda-5a5d-4243-8ca1-b374b1c399ee.png">
+<img alt="Description" src="https://user-images.githubusercontent.com/60792837/130274341-7de5bdd6-5db2-4b44-a3de-0e9fc0d44726.png">
+<img alt="Description" src="https://user-images.githubusercontent.com/60792837/130274402-e54d8c26-405e-4cae-9d37-3b847757e1f3.png">
+<img alt="Description" src="https://user-images.githubusercontent.com/60792837/130274461-28fbe08f-f0f0-4d85-8b90-64be33186abb.png">
+
 
